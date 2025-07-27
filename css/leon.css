@@ -14,6 +14,9 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    -webkit-text-size-adjust:100%;
+    -moz-text-size-adjust: 100%;
+
 }
 
 body {
@@ -194,6 +197,7 @@ html {
 /* Start Landing Section */
 .header .landing {
     background-image: url("../images/mountain.jpg");
+    -moz-background-origin: ;
     background-size: cover;
     width: 100%;
     height: calc(100vh - 64px);
