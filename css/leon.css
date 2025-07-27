@@ -193,7 +193,7 @@ html {
 /* End Header Section */
 /* Start Landing Section */
 .header .landing {
-    background-image: url("/images/mountain.jpg");
+    background-image: url("../images/mountain.jpg");
     background-size: cover;
     width: 100%;
     height: calc(100vh - 100px);
